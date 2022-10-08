@@ -14,7 +14,8 @@
 🚀 저의 목표는...
   1. 미러 사이트 likes [미사카 미코토 네트워크](https://mirror.misakamikoto.network) → 프로젝트 우이하루(uiharu)
   2. 모두가 컴퓨터 교육을 듣고, 자신만의 무언가를 만들 수 있도록 하고 싶어요!
-  
+ 
+[English](#english)
 ### I'm Gaon who wants to move forward for the world! 👋
 
  I am...
