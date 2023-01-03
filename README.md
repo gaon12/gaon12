@@ -1,5 +1,7 @@
 > You can also read to [English!](#english)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaon12&show_icons=true&theme=transparent)
+
 ### 세상을 위해 나아가고 싶은 가온이에요! 👋
 
 저는...
