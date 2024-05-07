@@ -1,6 +1,16 @@
-> You can also read to [English!](#english)
+![bg](https://github.com/gaon12/gaon12/assets/34927797/ea182e83-72d1-41e8-9032-5f0b90a1a85f)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaon12&show_icons=true&theme=transparent)
+<div align="center">
+  <h1>🌟 <strong>Dream Big, Code Small, Change the World!</strong> 🌟</h1>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=gaon12&row=1">
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gaon12&show_icons=true&theme=transparent" width="400" style="float: left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaon12&show_icons=true&hide_border=false&border_color=e5e5e5&title_color=004386&icon_color=004386&layout=compact" width="350" style="float: left">
+</div>
 
 ### 세상을 위해 나아가고 싶은 가온이에요! 👋
 
